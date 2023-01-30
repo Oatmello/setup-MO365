@@ -1,4 +1,4 @@
-# Setup of Microsft 365
+# Setup of Microsoft 365
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/ADimages/M365%20Logo.png" />
